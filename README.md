@@ -3,7 +3,7 @@
 <div>  
   <div align="center">
     🚀 I'm currently work as Support at WebMais Sistemas<br/>
-    🌱 I'm currently learning Javascript and SQL<br/>
+    🌱 I'm currently learning Javascript, SQL and PHP<br/>
     🧑‍🎓 I'm a software engineering academic
   </div>
 
