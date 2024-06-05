@@ -2,9 +2,8 @@
 
 <div>  
   <div align="center">
-    🚀 I'm currently work as Support at WebMais Sistemas<br/>
-    🌱 I'm currently learning Javascript, SQL and PHP<br/>
-    🧑‍🎓 I'm a software engineering academic
+    🌱 Atualmente estou aprendendo Javascript, SQL e PHP<br/>
+    🧑‍🎓 Sou acadêmico de Engenharia De Software 
   </div>
 
   ## 🧑‍💻 &nbsp;Technologies
