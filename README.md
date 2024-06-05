@@ -3,7 +3,7 @@
 <div>  
   <div align="center">
     🌱 Atualmente estou aprendendo Javascript, SQL e PHP<br/>
-    🧑‍🎓 Sou acadêmico de Engenharia De Software 
+    🧑‍🎓 Acadêmico em Engenharia De Software 
   </div>
 
   ## 🧑‍💻 &nbsp;Technologies
